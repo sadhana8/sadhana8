@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on *Web Development*
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *MERN*
 
 - 👨‍💻 All of my projects are available at [in my own git(github.com/sadhana8)](in my own git(github.com/sadhana8))
 
-- 💬 Ask me about *Frontend || Gsap*
+- 💬 Ask me about *Frontend || Gsap || MERN Developer*
 
 - 📫 How to reach me *sadhanasudha003@gmail.com*
 
