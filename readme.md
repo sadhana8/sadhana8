@@ -39,7 +39,7 @@
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" width="40" title="GSAP"/>
+  <img src="https://greensock.com/uploads/monthly_2020_05/greensock-logo.png" width="40" title="GSAP (GreenSock Animation Platform)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP"/>
 
   <!-- Frontend -->
