@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Sadhana Sudha Banner" style="width:100px; border-radius:12px;"/>
+ <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Sadhana Sudha Banner" style="width:20px; height:20px; border-radius:12px;"/>
 <br>
 <h2 align="center">✨ Namaste, I'm Sadhana Sudha 👩‍💻</h2>
 <p align="center">
