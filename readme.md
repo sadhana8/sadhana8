@@ -93,11 +93,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api?username=sadhana8&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" alt="GitHub Streak" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhana8&theme=radical" width="400" alt="GitHub Streak" />  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadhana8&theme=rogue" alt="Contribution Graph" />  
 
 </div>
 
