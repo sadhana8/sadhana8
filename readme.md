@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌳 Hey there! I'm <span style="color:#00ADB5;">Sadhana Kumari Sudha</span> 🧑‍💻
+  🌳 Hey there! I'm <span style="color:#00ADB5;">Sadhana Kumari Sudha</span> 👩‍💻
 </h1>
 
 <p align="center">
@@ -72,8 +72,11 @@
 ## 📦 Projects I’ve Built  
 
 1. 🌐 ** College Management System (PHP & MySQL) **
+
 └─ 🔗 [Live Demo ](https://github.com/sadhana8/project-cms/blob/main/README.md)
+
   └─ 💾 [Code](https://github.com/sadhana8/project-cms/tree/main)
+
   └─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
   └─ Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
 
