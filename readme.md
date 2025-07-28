@@ -1,32 +1,139 @@
-<h1 align="center">Hi 👋, I'm Sadhana</h1>
-<h3 align="center">A passionate FullStack MERN Developer from Nepal</h3>
+<h1 align="center">
+  🌳 Hey there! I'm <span style="color:#00ADB5;">Sadhana Kumari Sudha</span> 🧑‍💻
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhana8&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana8" /> </p>
+<p align="center">
+ <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Sadhana Sudha Banner" style="width:100%; border-radius:12px;"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhana8" alt="sadhana8" /></a> </p>
-
-- 🔭 I’m currently working on *Web Development*
-
-- 🌱 I’m currently learning *MERN*
-
-- 👨‍💻 All of my projects are available at [in my own git(github.com/sadhana8)](in my own git(github.com/sadhana8))
-
-- 💬 Ask me about *Frontend || Gsap || MERN Developer*
-
-- 📫 How to reach me *sadhanasudha003@gmail.com*
-
-- ⚡ Fun fact *Childish things that makes me Happy even I'm already an Adult*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadhana sudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadhana sudha" height="30" width="40" /></a>
+<h2 align="center">✨ Namaste, I'm Sadhana Sudha 👩‍💻</h2>
+<p align="center">
+  Full-Stack Developer | Automation Enthusiast | AI Explorer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadhana8&show_icons=true&locale=en&layout=compact" alt="sadhana8" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadhana8&show_icons=true&locale=en" alt="sadhana8" /></p>
+## 🌱 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhana8&" alt="sadhana8" /></p>
+```yaml
+- 💻  Full-Stack Developer | Passionate about building scalable and intuitive web applications.
+- ⚙️  Automation Enthusiast | Streamlining workflows with custom tools and smart scripting.
+- 🌐  Web Architect | Skilled in both frontend finesse and backend robustness.
+- 🕸️  Web Scraping Pro | Extracting insights and optimizing performance with precision.
+- 📊  Data Analyst | From Excel to Power BI — transforming raw data into clear stories.
+- 🤖  AI + Prompt Engineer | Exploring LLMs, fine-tuning outputs, and building smarter apps.
+- 🎯  Continuous Learner | Always evolving — one commit, one course, one challenge at a time.
+
+```
+
+📬 **Reach me at**: [sadhanasudha003@gmail.com](mailto:sadhanasudha003@gmail.com)   
+🌍 **Portfolio**: [https://sadhana-protofolio.netlify.app/](https://sadhana-protofolio.netlify.app/)   
+💼 **LinkedIn**: [Sadhana Sudha](https://www.linkedin.com/in/sadhanasudha/)   
+
+---
+
+## 🌳 My Toolbox 🛠️ 
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+
+  <!-- Backend & DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28" title="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Web%20Scraping-Data%20Ninja-blue?style=for-the-badge&logo=python&logoColor=white" height="28" title="Web Scraping"/>
+  <img src="https://img.shields.io/badge/Automation-Enthusiast-brightgreen?style=for-the-badge&logo=python&logoColor=white" height="28" title="Automation"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange?style=for-the-badge&logo=powerbi&logoColor=white" height="28" title="Power BI"/>
+</p>
+
+
+---
+
+## 📦 Projects I’ve Built  
+
+1. 🌐 ** College Management System (PHP & MySQL) **
+└─ 🔗 [Live Demo ](https://github.com/sadhana8/project-cms/blob/main/README.md)
+  └─ 💾 [Code](https://github.com/sadhana8/project-cms/tree/main)
+  └─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
+  └─ Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
+
+## 🎨 Hobbies & Interests
+
+- ✈️ Traveling: Exploring new places and cultures whenever I get the chance.
+- 🏐 Volleyball: Enjoy playing volleyball to stay active and energized.
+- 🎨 Drawing: Sketching and drawing as a creative outlet to relax and unwind. 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />  
+
+<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" alt="GitHub Streak" />  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />  
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:sadhanasudha003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sadhanasudha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sadhana8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+## 🤯 Fun Debug Logs
+
+``` When you console.log() everything just to feel safe 😅
+function debugLife() {
+  console.log("Step 1: Open console");
+  console.log("Step 2: Question everything");
+  console.log("Step 3: It magically works?");
+}
+
+debugLife();
+// Output: Console wisdom activated
+
+```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/> 
+  <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50"/>
+</p>
+
+---
+
+<p align="center">
+  Built with ☕ & ❤️ by Sadhana Sudha  
+  <br/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="35"/>
+</p>
