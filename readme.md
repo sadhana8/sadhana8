@@ -70,17 +70,17 @@
 ## 📦 Projects I’ve Built  
 
 
-🗺️ ** Real-Time Tracking App (Node.js, Socket.io, Leaflet.js) ** :-
-├─ 🔗 [Live Demo](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/README.md)
-├─ 💾 [Code](https://github.com/sadhana8/Real-Time--Tracking-App-)
-└─ A real-time geolocation-based tracking system showing users’ live location on the map.
-  └─ Built using Leaflet.js, Socket.io, and HTML5 Geolocation API — suitable for delivery and logistics apps.
+🗺️ ** Real-Time Tracking App (Node.js, Socket.io, Leaflet.js) ** :-                                                                                
+  └─ 🔗 [Live Demo](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/README.md)                                                                     
+  └─ 💾 [Code](https://github.com/sadhana8/Real-Time--Tracking-App-)                                                                                               
+  └─ A real-time geolocation-based tracking system showing users’ live location on the map.
+    └─ Built using Leaflet.js, Socket.io, and HTML5 Geolocation API — suitable for delivery and logistics apps.
   
-🌐 ** College Management System (PHP & MySQL) ** :-
-├─ 🔗 [Live Demo](https://github.com/sadhana8/project-cms/blob/main/README.md)
-├─ 💾  [Code](https://github.com/sadhana8/project-cms/tree/main)
-└─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
-  └─ Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
+🌐 ** College Management System (PHP & MySQL) ** :- 
+  └─ 🔗 [Live Demo](https://github.com/sadhana8/project-cms/blob/main/README.md)                                                                                   
+  └─ 💾  [Code](https://github.com/sadhana8/project-cms/tree/main)                                                                                                 
+  └─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
+     └─ Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
 
 ## 🎨 Hobbies & Interests
 
