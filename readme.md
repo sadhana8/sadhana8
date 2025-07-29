@@ -69,14 +69,11 @@
 
 ## 📦 Projects I’ve Built  
 
-1. 🌐 ** College Management System (PHP & MySQL) **
-
-└─ 🔗 [Live Demo ](https://github.com/sadhana8/project-cms/blob/main/README.md)
-
-  └─ 💾 [Code](https://github.com/sadhana8/project-cms/tree/main)
-
-  └─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
+🌐 ** College Management System (PHP & MySQL) **
+└─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.
   └─ Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
+└─ 🔗 Live Demo [(https://github.com/sadhana8/project-cms/blob/main/README.md)]
+└─ 💾 Code [(https://github.com/sadhana8/project-cms/tree/main)]
 
 ## 🎨 Hobbies & Interests
 
