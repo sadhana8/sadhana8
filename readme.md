@@ -129,11 +129,6 @@ debugLife();
 
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/> 
-  <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50"/>
-</p>
-
 ---
 
 <p align="center">
