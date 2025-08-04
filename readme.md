@@ -85,7 +85,7 @@
 - ✈️ Traveling: Exploring new places and cultures whenever I get the chance.
 - 🏐 Volleyball: Enjoy playing volleyball to stay active and energized.
 - 🎨 Drawing: Sketching and drawing as a creative outlet to relax and unwind. 
-- ☄️ Animation: I'm interested to spend time on creating something like animated 
+- ☄️ Animation: I'm interested in spending time creating something animated.
 
 ---
 
