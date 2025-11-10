@@ -5,7 +5,7 @@
 <p align="center">
 <!--  <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Sadhana Sudha Banner" style="width:20px; height:20px; border-radius:12px;"/> -->
 <br>
-<h2 align="center">✨ Namaste, I'm Sadhana Sudha 👩‍💻</h2>
+<h2 align="center">I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my project. I can adapt new programming languages and tools quickly. I also love strumming guitar, reading books, and travelling.</h2>
 <p align="center">
   Full-Stack Developer | Automation Enthusiast | AI Explorer
 </p>
