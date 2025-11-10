@@ -28,7 +28,7 @@
 ```
 
 📬 **Reach me at**: [sadhanasudha003@gmail.com](mailto:sadhanasudha003@gmail.com)   
-🌍 **Portfolio**: [https://sadhana-protofolio.netlify.app/](https://portfolio-qgvy.vercel.app/)   
+🌍 **Portfolio**: (https://portfolio-qgvy.vercel.app/)   
 💼 **LinkedIn**: [Sadhana Sudha](https://www.linkedin.com/in/sadhanasudha/)   
 
 ---
