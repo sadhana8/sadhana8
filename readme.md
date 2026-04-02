@@ -1,138 +1,246 @@
-<h1 align="center">
-  🌳 Hey there! I'm <span style="color:#00ADB5;">Sadhana Kumari Sudha</span> 👩‍💻
-</h1>
-
-<p align="center">
-<!--  <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Sadhana Sudha Banner" style="width:20px; height:20px; border-radius:12px;"/> -->
-<br>
-<h2 align="center">I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my project. I can adapt new programming languages and tools quickly.I enjoy playing volleyball and exploring new places.</h2>
-<p align="center">
-  Full-Stack Developer | Automation Enthusiast | AI Explorer
-</p>
-
-</p>
-
----
-
-## 🌱 About Me
-
-```yaml
-- 💻  Full-Stack Developer | Passionate about building scalable and intuitive web applications.
-- ⚙️  Automation Enthusiast | Streamlining workflows with custom tools and smart scripting.
-- 🌐  Web Architect | Skilled in both frontend finesse and backend robustness.
-- 🕸️  Web Scraping Pro | Extracting insights and optimizing performance with precision.
-- 📊  Data Analyst | From Excel to Power BI — transforming raw data into clear stories.
-- 🤖  AI + Prompt Engineer | Exploring LLMs, fine-tuning outputs, and building smarter apps.
-- 🎯  Continuous Learner | Always evolving — one commit, one course, one challenge at a time.
-
-```
-
-📬 **Reach me at**: [sadhanasudha003@gmail.com](mailto:sadhanasudha003@gmail.com)   
-🌍 **Portfolio**: (https://portfolio-qgvy.vercel.app/)   
-💼 **LinkedIn**: [Sadhana Sudha](https://www.linkedin.com/in/sadhanasudha/)   
-
----
-
-## 🌳 My Toolbox 🛠️ 
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP"/>
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-
-  <!-- Backend & DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" color="white" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-<br>
-  <!-- Extras -->
-  <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28" title="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Web%20Scraping-Data%20Ninja-blue?style=for-the-badge&logo=python&logoColor=white" height="28" title="Web Scraping"/>
-  <img src="https://img.shields.io/badge/Automation-Enthusiast-brightgreen?style=for-the-badge&logo=python&logoColor=white" height="28" title="Automation"/>
-</p>
-
-
----
-
-## 📦 Projects I’ve Built  
-
-
-🗺️ ** Real-Time Tracking App (Node.js, Socket.io, Leaflet.js) ** :-                                                                                
-  └─ 🔗 [Live Demo](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/README.md)                                                                     
-  └─ 💾 [Code](https://github.com/sadhana8/Real-Time--Tracking-App-)                                                                                               
-  └─ A real-time geolocation-based tracking system showing users’ live location on the map. Built using Leaflet.js, Socket.io, and HTML5 Geolocation API — suitable for delivery and logistics apps.
-  
-🌐 ** College Management System (PHP & MySQL) ** :-                                                                                                                
-  └─ 🔗 [Live Demo](https://github.com/sadhana8/project-cms/blob/main/README.md)                                                                                   
-  └─ 💾  [Code](https://github.com/sadhana8/project-cms/tree/main)                                                                                                 
-  └─ A PHP-based system for managing core college operations including student registration, teacher records, class schedules, and exams.                                                                Features planned for extension include attendance tracking, fee payment, and Khalti integration for digital payments.
-
-## 🎨 Hobbies & Interests
-
-- ✈️ Traveling: Exploring new places and cultures whenever I get the chance.
-- 🏐 Volleyball: Enjoy playing volleyball to stay active and energized.
-- 🎨 Drawing: Sketching and drawing as a creative outlet to relax and unwind. 
-- ☄️ Animation: I'm interested in spending time creating something animated.
-
----
-
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED WAVE HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ADB5,100:0D1117&height=200&section=header&text=Sadhana%20Sudha&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer%20%F0%9F%90%8D&descSize=20&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadhana8&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />  
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00ADB5&center=true&vCenter=true&multiline=false&width=650&lines=Building+scalable+backends+with+Python+🐍;Automating+workflows%2C+one+script+at+a+time+⚙️;Web+scraping+%7C+APIs+%7C+AI+integration+🤖;Always+learning%2C+always+shipping+🚀" alt="Typing SVG"/>
 
- 
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadhana8&theme=rogue" alt="Contribution Graph" />  
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ADB5?style=for-the-badge&logoColor=white)](https://portfolio-qgvy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadhanasudha/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhanasudha003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadhana8)
+[![Profile Views](https://komarev.com/ghpvc/?username=sadhana8&color=00ADB5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sadhana8)
 
 </div>
 
 ---
 
-## 📬 Contact Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="mailto:sadhanasudha003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sadhanasudha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sadhana8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## `$ python -c "print(sadhana.bio())"`
 
----
+```python
+class SadhanaSudha:
 
-## 🤯 Fun Debug Logs
+    name       = "Sadhana Kumari Sudha"
+    role       = "Python Backend Developer"
+    location   = "Nepal 🇳🇵"
+    portfolio  = "https://portfolio-qgvy.vercel.app/"
+    email      = "sadhanasudha003@gmail.com"
 
-``` When you console.log() everything just to feel safe 😅
-function debugLife() {
-  console.log("Step 1: Open console");
-  console.log("Step 2: Question everything");
-  console.log("Step 3: It magically works?");
-}
+    skills     = [
+        "🐍  Python · FastAPI · REST APIs",
+        "⚙️  Automation & Smart Scripting",
+        "🕸️  Web Scraping (Selenium, BeautifulSoup)",
+        "🤖  AI Integration & Prompt Engineering",
+        "📊  Data Analysis (Excel, Power BI)",
+        "🌐  Full-Stack (React, Node.js, PHP)",
+    ]
 
-debugLife();
-// Output: Console wisdom activated
+    currently  = "Exploring FastAPI + Docker + LLM fine-tuning 🔥"
+    fun_fact   = "I use print() for debugging. Professionally. 😌"
 
+    def say_hi(self):
+        return "Let's build something backend-beautiful! 🚀"
 ```
 
 ---
 
-<p align="center">
-  Built with ☕ & ❤️ by Sadhana Sudha  
-  <br/>
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="35"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🐍 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 Automation & AI
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🎨 Frontend & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗺️ Real-Time Tracking App
+**Node.js · Socket.io · Leaflet.js**
+
+Live geolocation tracking on an interactive map — built for delivery and logistics use cases using HTML5 Geolocation API.
+
+[![README](https://img.shields.io/badge/📖_README-00ADB5?style=flat-square)](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/README.md)
+[![Code](https://img.shields.io/badge/💾_Source-181717?style=flat-square&logo=github)](https://github.com/sadhana8/Real-Time--Tracking-App-)
+
+</td>
+<td width="50%">
+
+### 🎓 College Management System
+**PHP · MySQL**
+
+Full-featured system covering student registration, teacher records, class schedules and exams. Planned: Khalti digital payment integration.
+
+[![README](https://img.shields.io/badge/📖_README-00ADB5?style=flat-square)](https://github.com/sadhana8/project-cms/blob/main/README.md)
+[![Code](https://img.shields.io/badge/💾_Source-181717?style=flat-square&logo=github)](https://github.com/sadhana8/project-cms/tree/main)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sadhana8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&include_all_commits=true&count_private=true" width="390" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadhana8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&langs_count=8" width="335" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sadhana8&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=FF6B6B&currStreakLabel=00ADB5&sideLabels=FFFFFF&dates=AAAAAA" width="500" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadhana8&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENTLY WORKING ON                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Currently In My Terminal
+
+```bash
+$ git log --oneline --me
+
+✅  Building RESTful APIs with Python & FastAPI
+🐳  Learning Docker for containerized deployments
+🤖  Experimenting with LLMs and Prompt Engineering
+🕸️  Scraping the web, one HTTP request at a time
+📊  Transforming raw data into Power BI stories
+🌱  One commit · one course · one challenge at a time
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HOBBIES & INTERESTS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎨 Beyond the Terminal
+
+| ✈️ Traveling | 🏐 Volleyball | 🎨 Drawing | ☄️ Animation |
+|:---:|:---:|:---:|:---:|
+| Chasing new places & perspectives | Team player on & off the court | Sketching as a creative reset | Bringing ideas to life, frame by frame |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FUN PYTHON EASTER EGG                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐛 My Debugging Philosophy
+
+```python
+# Sadhana's Production-Grade Debugger™
+def debug(problem):
+    print("Starting debug session...")
+    print(f"Problem: {problem}")
+    print("Hmm...")
+    print("Still thinking...")
+    print("OH WAIT —")
+    return "It was a missing comma. It's always a missing comma. 😅"
+
+debug("why is nothing working")
+# Output: It was a missing comma. It's always a missing comma. 😅
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00ADB5?style=for-the-badge)](https://portfolio-qgvy.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhanasudha003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadhanasudha/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadhana8)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED WAVE FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```python
+while alive:
+    eat() | sleep() | code() | repeat()
+```
+
+*Built with ☕ and Python by **Sadhana Sudha***
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ADB5,100:0D1117&height=120&section=footer&animation=fadeIn"/>
